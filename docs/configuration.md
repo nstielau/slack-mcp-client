@@ -20,6 +20,8 @@ Add these OAuth scopes to your Bot Token in the "OAuth & Permissions" section:
 - `chat:write` - Allows the bot to post messages
 - `im:history` - Allows the bot to read direct messages
 - `im:read` - Allows the bot to receive DM events
+- `users:read` - Allow the bot to read the user information
+- `users.profile:read` - Allow the bot to read user profile
 
 **Additional Scopes (for full functionality):**
 - `channels:history` - Allows reading public channel history (needed for message management)
